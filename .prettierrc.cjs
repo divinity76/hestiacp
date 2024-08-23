@@ -1,5 +1,5 @@
 module.exports = {
-	// Plugins
+	// Plugins/
 	plugins: [
 		'@prettier/plugin-php',
 		'prettier-plugin-nginx',
